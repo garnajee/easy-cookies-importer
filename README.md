@@ -9,3 +9,7 @@
 5. The **Easy Cookies Importer** extension will appear in the Firefox toolbar.
 
 > Firefox removes temporary extensions after every restart. Repeat these steps to load it again.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
